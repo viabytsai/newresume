@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/statement.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"statement.66d13834.css","sourceRoot":"..\\src","sourcesContent":[".statement{\r\n    color: #aaa;\r\n    text-align: center;\r\n    margin: 10px;\r\n    font-size: 14px;\r\n}\r\n.statement a{\r\n    color: #aaa;\r\n}\r\n"]}

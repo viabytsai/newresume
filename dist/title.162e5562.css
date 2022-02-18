@@ -1,0 +1,60 @@
+article {
+    width: 50%;
+    min-width: 800px;
+    min-height: 29.7cm;
+    background: white;
+    margin: 0 auto;
+    overflow: auto;
+    /*padding: 1em;*/
+    border-radius: 10px;
+    box-shadow: 0 0 5px #ccc;
+}
+.name{
+    font-size: 48px;
+    letter-spacing: 4px;
+}
+.job{
+    font-size: 24px;
+    font-weight:100;
+}
+.title{
+    /*min-height: 300px;*/
+    background-image: linear-gradient(to right,#00c9b9, #00bdc4);
+    padding: 20px 50px 0 50px;
+}
+.title-hd{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.title-hd::after{
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: white;
+}
+.title-content{
+    padding: 20px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.tcLeft > span{
+    display: block;
+    margin: 5px 0;
+}
+.tcRight > span{
+    display: block;
+    margin: 5px 0;
+}
+
+/*# sourceMappingURL=/title.162e5562.css.map */
