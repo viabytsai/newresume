@@ -56,3 +56,9 @@ article {
     display: block;
     margin: 5px 0;
 }
+.tcRight > span > a {
+    color: white;
+}
+.tcRight >span > a:hover{
+    color: #ccf2f3;
+}
