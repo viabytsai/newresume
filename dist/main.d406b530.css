@@ -72,6 +72,20 @@ margin-bottom: 20px;
     padding: 20px 0;
     position: relative;
 }
+.schoolExp > span,
+.self > span{
+    font-size: 32px;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+article {
+    padding-bottom: 20px;
+}
+.schoolExp > ul >li {
+    margin-bottom:5px;
+    font-size: 16px;
+    color: #777;
+}
 
-
-/*# sourceMappingURL=main.343a0e2c.css.map */
+/*# sourceMappingURL=main.d406b530.css.map */
